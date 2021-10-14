@@ -1,7 +1,7 @@
 # simple-discord-bot
 discord bot made with python and discord.py\
 bot.py is your bot commands\
-weather.py pulls weather data from OpenWeatherMap and builds a weather message\
+weather.py pulls weather data from OpenWeatherMap and builds a weather message
 
 Set-up:\
 You will want to get Requests for Python found here: https://docs.python-requests.org/en/latest/ 
