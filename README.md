@@ -18,4 +18,5 @@ TO-DO:\
 Polling System to allow server users to vote on different topics.\
 Suggestion box system for different servers to put input what they want to see from the bot.\
 Auto-mod that checks users messages against blacklist of words not allowed on server.\
-Alarm / Notification fuction that notifies users in dms or by @ing in server to remind them of something.
+Alarm / Notification fuction that notifies users in dms or by @ing in server to remind them of something.\
+Random fact of the day.
